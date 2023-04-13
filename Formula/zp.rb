@@ -5,8 +5,8 @@ class Zp < Formula
   desc "Copy the contents of the source file to the clipboard, allowing users to easily paste the contents into another file or program."
   homepage "https://github.com/bahdotsh/zp"
   url "https://github.com/bahdotsh/zp/releases/download/v0.1.1/zp-mac.tar.gz"
-  sha256 "e5260bf4a7e57e5e162b9ca4ce2d0aec4d5dc8c3e18f6ae34f28a7895caf718b"
-  version "0.1.1"
+  sha256 "1132d312e47ac30ca9478be2adec205f3b1d1acb665179b72afe0940c3819327"
+  version "0.2.0"
 
   def install
     bin.install "zp"
